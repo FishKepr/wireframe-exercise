@@ -12,8 +12,8 @@ header ul li {
 header {
     background-color: darkgrey;
     height: 100px;
-    /* width: 960px; */
-    /* margin: 30px; */
+    width: 1020px;
+
  }
  header img{
     border: darkgrey;
@@ -50,6 +50,7 @@ main section div{
     float: left;
     padding-left: 30px;
     font-family: Arial, sans-serif;
+    margin-bottom: 30px;
 }
 
 main section div h2 {
@@ -75,7 +76,6 @@ button:hover {
 footer {
     clear: both;
     background:grey; 
-    height: 150px;
-    margin-top: 50px;
-    
+    height: 150px;    
+    width: 1020px;
 }
